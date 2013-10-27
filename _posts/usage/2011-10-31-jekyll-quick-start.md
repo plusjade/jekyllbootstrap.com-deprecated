@@ -25,11 +25,11 @@ If you run into a problem please consult the original [Jekyll installation docum
 You can also [create a support issue](https://github.com/plusjade/jekyll-bootstrap/issues) using GitHub Issues.
 
 Once the gem is installed you can navigate to your Jekyll-Bootstrap directory.
-If you've followed the homepage instructions this will be: USERNAME.github.com.
+If you've followed the homepage instructions this will be: USERNAME.github.io.
 Once in the directory you'll run jekyll with server support:
 
 {% highlight bash %}
-$ cd USERNAME.github.com 
+$ cd USERNAME.github.io
 $ jekyll --server
 # remember to change USERNAME to your GitHub username.
 {% endhighlight %}
